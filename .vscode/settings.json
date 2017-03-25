@@ -1,0 +1,14 @@
+// Place your settings in this file to overwrite default and user settings.
+{
+    "standard.enable": true,
+    "eslint.validate": [
+        "javascript",
+        "javascriptreact",
+        "html",
+        "vue"
+    ],
+    "editor.fontSize": 14,
+    "emmet.triggerExpansionOnTab": true,
+    "css.validate": true,
+    "eslint.enable": true
+}
